@@ -35,7 +35,7 @@ Use this pipeline when:
 
 ## ⚙️ Requirements
 Requirements and software dependencies are described in:
-[Requirements](https://github.com/Labbiofisbiocomp/docking/blob/main/requirements.md)
+[Requirements](https://github.com/Labbiofisbiocomp/protein-protein-docking/blob/main/requirements.md)
 
 ---
 
