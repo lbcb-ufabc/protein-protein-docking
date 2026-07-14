@@ -15,7 +15,7 @@ Tested versions:
 - 5.1.3
 
 ### HEX
-Used for protein-protein docking.
+- 8.0.0
 
 ## Shell
 - Bash
