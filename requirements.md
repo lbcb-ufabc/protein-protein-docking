@@ -16,6 +16,10 @@ Tested versions:
 
 ### HEX
 - 8.0.0
+- web page:
+http://hex.loria.fr/
+- online manual:
+http://hex.loria.fr/manual800/hex_manual.html
 
 ## Shell
 - Bash
