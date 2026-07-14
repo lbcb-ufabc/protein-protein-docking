@@ -75,8 +75,7 @@ Organização e análise de cluster
 
 ---
 
-## ▶️ Como executar (passo a passo)
-
+## ▶️ Como executar
 Execute os scripts na seguinte ordem:
 
 ```bash
