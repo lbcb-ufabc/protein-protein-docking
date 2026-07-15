@@ -46,6 +46,7 @@ This pipeline was developed to:
 ├── 11_rodarClusteringfinal-parte1_v2.sh
 ├── 12_rodarClusteringfinal-parte2_v2.sh
 ├── 13_separa-organiza-clusters-docking_v4.sh
+├── README-en.md
 └── README.md
 ```
 
